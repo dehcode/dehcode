@@ -26,7 +26,7 @@ azuosz@github
 💜 Member of @He4rtDevs
 💻 OS: Kali GNU/Linux Rolling and Ubuntu 20.04.4
 📚 Studying Cybersec
-🌟 Main language: Python
+🌟 Main language: Java, Python
 🏴‍☠️ I play CTF sometimes
 🚩 Interested in network security and web security
 🖌️ Theme and Icons: Sweet-Dark, Flat-Remix-Blue-Dark and mkos-BigSur-Dark, mkos-Big-Sur-Transparent-Panel
