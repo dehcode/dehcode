@@ -41,6 +41,8 @@ azuosz@github
   <img alt="482f4e" src="482f4e.png" width="25" height="20" /><img alt="bbb1da" src="bbb1da.png" width="25" height="20" /><img alt="74748e" src="74748e.png" width="25" height="20" /><img alt="3b3c50" src="3b3c50.png" width="25" height="20"/>
 </p>
 
+[![@azuosz's Holopin board](https://holopin.me/azuosz)](https://holopin.io/@azuosz)
+
 ```console
 azuosz@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
