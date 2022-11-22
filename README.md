@@ -18,7 +18,6 @@ azuosz@github:~$ ./welcome.sh
 
 ```
 
-<img align="left" src="mob.jpg" alt="mob" width="320" /> 
 
 ```
 azuosz@github
@@ -34,12 +33,6 @@ azuosz@github
 ⚡ Love ketchup (in all things) 🍅
 🔎 Main interests in Cybersec
 ```
-
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="735caa" src="735caa.png" width="25" height="20" /><img alt="483379" src="483379.png" width="25" height="20" /><img alt="080511" src="080511.png" width="25" height="20" /><img alt="251746" src="251746.png" width="25" height="20"/><img alt="7f688e" src="7f688e.png" width="25" height="20"/>
-  <img alt="482f4e" src="482f4e.png" width="25" height="20" /><img alt="bbb1da" src="bbb1da.png" width="25" height="20" /><img alt="74748e" src="74748e.png" width="25" height="20" /><img alt="3b3c50" src="3b3c50.png" width="25" height="20"/>
-</p>
 
 [![@azuosz's Holopin board](https://holopin.me/azuosz)](https://holopin.io/@azuosz)
 
