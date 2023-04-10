@@ -1,10 +1,10 @@
 ```console
-sych@github:~$ ./welcome.sh
+azuosz@github:~$ ./welcome.sh
 ```
 
 
 ```
-sych@github
+azuosz@github
 -------------------------
 💜 Member of @He4rtDevs
 💻 OS: Ubuntu 22.04.1 LTS GNOME
@@ -19,5 +19,5 @@ sych@github
 [![@azuosz's Holopin board](https://holopin.me/azuosz)](https://holopin.io/@azuosz)
 
 ```console
-sych@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+azuosz@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
