@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC00F3&width=435&lines=Hello+o%2F+I'm+Andr%C3%A9" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA22F7&width=435&lines=Hello+o%2F+I%60m+Andre" alt="Typing SVG" /></a>
       <br/>
       <img src="https://i.gifer.com/75t.gif" width="350" />
     </td>
